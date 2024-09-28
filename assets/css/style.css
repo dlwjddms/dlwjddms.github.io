@@ -238,7 +238,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #6c9268;}
     -o-transition: 0.3s linear; 
     transition: 0.3s linear;
 }
-.header-text a:hover{ box-shadow: 0 5px 20px rgba(0,0,0,.4);background:#9f00ff;border: 1px solid #9f00ff;}
+.header-text a:hover{ box-shadow: 0 5px 20px rgba(0,0,0,.4);background:#009f93;border: 1px solid #9f00ff;}
 /*.header-text-area*/
 
 /*-------------------------------------
@@ -386,7 +386,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 .single-progress-txt h3 {
     width: 10%;
-    color: #a606c3;
+    color: #a6ce39;
     position: relative;
     top: 6px;
     left: 20px;
@@ -743,8 +743,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     
 }
 .single-contact-btn:hover{
-    background: #9f00ff;
-    border: 1px solid #9f00ff;
+    background: #009f93;
+    border: 1px solid #009f93;
     box-shadow: 0 5px 20px rgba(0,0,0,.2);
 }
 

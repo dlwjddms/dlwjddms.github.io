@@ -1,6 +1,6 @@
 # JeongEun Lee's Portfolio
 
-Welcome to the repository for my personal portfolio website, hosted at <a href="https://je.github.io/" target="_blank">JeongEun Lee's Portfolio</a>. This site showcases my skills, projects, and academic background in Machine Learning and Data Science. 
+Welcome to the repository for my personal portfolio website, hosted at <a href="https://dlwjddms.github.io/" target="_blank">JeongEun Lee's Portfolio</a>. This site showcases my skills, projects, and academic background in Machine Learning and Data Science. 
 
 ## Features
 
